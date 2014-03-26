@@ -1,0 +1,13 @@
+bibentry("Manual",
+		title="mapsnp: Plot genomic map for single nucleotide polymorphism",
+		author="Fuquan Zhang",
+		year="2014",
+		note="(Version 0.1)",
+		
+
+		textVersion =
+		paste("Zhang, F. (2014). ",
+				"mapsnp: Plot genomic map for single nucleotide polymorphism (Version 0.1). ",
+				sep=""),
+
+		mheader = "To cite mapsnp in publications use:")

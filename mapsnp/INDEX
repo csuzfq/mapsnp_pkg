@@ -1,0 +1,5 @@
+mapsnp-package          The mapsnp Package
+msa                     Plot genomic map for SNP, with all transcripts.
+msb                     Plot genomic map for SNP, with major
+                        transcripts.
+snp                     An example dataset
